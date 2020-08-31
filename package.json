@@ -72,7 +72,7 @@
 		"compression-webpack-plugin": "5.0.1",
 		"css-hot-loader": "1.4.4",
 		"css-loader": "2.1.1",
-		"date-fns": "2.15.0",
+		"date-fns": "2.16.1",
 		"enzyme": "3.11.0",
 		"enzyme-adapter-react-16": "1.15.2",
 		"eslint": "7.7.0",
